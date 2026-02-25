@@ -30,11 +30,17 @@ interface AccountToFollow {
   url: string;
 }
 
+interface Methodology {
+  searches: string[];
+  plainEnglish: string;
+}
+
 interface BriefingData {
   date: string;
   scrapedAt: string;
   posts: TweetPost[];
   accountsToFollow: AccountToFollow[];
+  methodology?: Methodology;
 }
 
 const app = new Hono<{ Bindings: Bindings }>();
@@ -287,7 +293,7 @@ function renderPage(data: BriefingData) {
     }
 
     .post-why::before {
-      content: '\2192';
+      content: '\\2192';
       margin-right: 0.4rem;
       font-weight: 300;
     }
@@ -405,7 +411,7 @@ function renderPage(data: BriefingData) {
     }
 
     .account-why::before {
-      content: '\2192';
+      content: '\\2192';
       margin-right: 0.4rem;
       font-weight: 300;
     }
@@ -436,6 +442,41 @@ function renderPage(data: BriefingData) {
       font-size: 0.85rem;
       color: var(--ink-muted);
       margin-top: 0.25rem;
+    }
+
+    /* Methodology */
+    .methodology {
+      background: var(--bg-card);
+      padding: 1.5rem;
+      border-radius: 2px;
+      border-top: 1px solid var(--rule);
+    }
+
+    .methodology-text {
+      font-family: 'Newsreader', serif;
+      font-size: 0.95rem;
+      line-height: 1.55;
+      color: var(--ink-secondary);
+      margin-bottom: 1rem;
+    }
+
+    .methodology-searches {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .methodology-search-tag {
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      color: var(--ink-muted);
+      background: var(--bg);
+      border: 1px solid var(--rule-light);
+      padding: 0.25rem 0.65rem;
+      border-radius: 2px;
+      font-family: 'Outfit', sans-serif;
     }
 
     /* Empty state */
@@ -564,6 +605,18 @@ function renderPage(data: BriefingData) {
       )}
     </div>
 
+    ${data.methodology ? raw(`
+    <div class="section-header">
+      <span class="section-label">Methodology</span>
+    </div>
+    <div class="methodology">
+      <div class="methodology-text">${escapeHtml(data.methodology.plainEnglish)}</div>
+      <ul class="methodology-searches">
+        ${data.methodology.searches.map((s: string) => `<li class="methodology-search-tag">${escapeHtml(s)}</li>`).join("")}
+      </ul>
+    </div>
+    `) : ""}
+
     <footer class="footer">
       <div class="footer-text">Last Updated</div>
       <div class="footer-time">${timeDisplay}</div>
@@ -620,7 +673,7 @@ function renderEmpty() {
 <body>
   <div class="empty-state">
     <h1>No briefing yet</h1>
-    <p>Run <code>npm run scrape</code> then <code>npm run push</code> to generate your first briefing.</p>
+    <p>Run <code>BROWSER_USE_API_KEY=&lt;key&gt; npm run scrape</code> then <code>npm run push</code> to generate your first briefing.</p>
   </div>
 </body>
 </html>`;
