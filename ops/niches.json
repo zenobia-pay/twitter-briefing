@@ -1,0 +1,22 @@
+{
+  "recommended": [
+    {
+      "key": "ai-agent-ops",
+      "label": "AI agent ops & workflows",
+      "why": "Matches your current work; high signal from builders shipping real systems.",
+      "seedAccounts": ["chulcher", "swyx", "dsp_", "levelsio", "OpenClawAI"]
+    },
+    {
+      "key": "coding-agents-devtools",
+      "label": "Coding agents + devtools",
+      "why": "Direct overlap with Code RL and operator audience.",
+      "seedAccounts": ["cursor_ai", "Replit", "AnthropicAI", "OpenAI", "scale_AI"]
+    },
+    {
+      "key": "bootstrap-go-to-market",
+      "label": "Bootstrap GTM for AI products",
+      "why": "Great for practical replies and founder positioning.",
+      "seedAccounts": ["paulg", "levelsio", "IndieHackers", "a16z", "ycombinator"]
+    }
+  ]
+}

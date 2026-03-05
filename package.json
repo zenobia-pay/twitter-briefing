@@ -6,7 +6,8 @@
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "scrape": "npx tsx scraper/scrape.ts",
-    "push": "npx tsx scraper/push-to-kv.ts"
+    "push": "npx tsx scraper/push-to-kv.ts",
+    "ops:slot": "python3 ops/twitter_operator.py"
   },
   "dependencies": {
     "hono": "^4.4.0"
