@@ -1,0 +1,1298 @@
+{
+  "run_date": "2026-03-05",
+  "ran_at": "2026-03-06T03:32:16.886104+00:00",
+  "input_writers": 215,
+  "resolved_writers": 215,
+  "nodes": 8661,
+  "edges": 9224,
+  "nodes_followed_by_2plus_writers": 601,
+  "errors": [
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "59299569",
+      "handle": "@adlankj",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "65207425",
+      "handle": "@magdajtaylor",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "214337395",
+      "handle": "@jessesingal",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "16076032",
+      "handle": "@ggreenwald",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "348237513",
+      "handle": "@SamBuntz",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "97874285",
+      "handle": "@saintsoftness",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1621201316",
+      "handle": "@VladDavidzon",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "370323535",
+      "handle": "@GarrisonLovely",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "863511453365567493",
+      "handle": "@FonieMits",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "736944902",
+      "handle": "@Tharin_P",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "960326542357356545",
+      "handle": "@ashjenexi",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3259118781",
+      "handle": "@vjfuhrmans",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1224715565757030400",
+      "handle": "@Perez_Writes",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1564656451129380864",
+      "handle": "@pourfairelevide",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1547629295882739712",
+      "handle": "@jduesterberg",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1854563598833430532",
+      "handle": "@the_met_review",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "394046454",
+      "handle": "@RossBarkan",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1036649504701927424",
+      "handle": "@DanielGKuhn",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "14855994",
+      "handle": "@davidsirota",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1591540693",
+      "handle": "@belladeangelis",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "197080008",
+      "handle": "@NathanJRobinson",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "347827071",
+      "handle": "@helenbholmes",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "456935174",
+      "handle": "@ZacharyLipez",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "585905313",
+      "handle": "@gabydvj",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1725170774141538304",
+      "handle": "@providenceluvr",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1306084282486710272",
+      "handle": "@sethharpesq",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "15814534",
+      "handle": "@tao_lin",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "208725869",
+      "handle": "@TaylorLorenz",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1877703900754522112",
+      "handle": "@Nina_Power_",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3311286493",
+      "handle": "@adam_tooze",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "604940737",
+      "handle": "@HeerJeet",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1634248890",
+      "handle": "@kenklippenstein",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "11178902",
+      "handle": "@nybooks",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "221849969",
+      "handle": "@the_point_mag",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1339286977",
+      "handle": "@RealClearBooks",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "16318976",
+      "handle": "@clarkesworld",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1586550579656118273",
+      "handle": "@WithinGoodNEvil",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "15306005",
+      "handle": "@bookforum",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "124087958",
+      "handle": "@LAReviewofBooks",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "29622345",
+      "handle": "@GDess",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1337151218880311298",
+      "handle": "@cartographer_s",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "24136198",
+      "handle": "@shadihamid",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "7900962",
+      "handle": "@lhfang",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "813635631377162240",
+      "handle": "@amgittlitz",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "487777321",
+      "handle": "@blauer_geist",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "280309581",
+      "handle": "@Net__Void",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "82489321",
+      "handle": "@NewLeftEViews",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "4765039760",
+      "handle": "@alex_sammon",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2530467732",
+      "handle": "@sirenaworld",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2353654050",
+      "handle": "@frynaomifry",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "52920970",
+      "handle": "@elspethreeve",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1669718907429482499",
+      "handle": "@snjeriwambugu",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3140391",
+      "handle": "@jasoncrawford",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "9701382",
+      "handle": "@hamishmckenzie",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "946585283922939905",
+      "handle": "@grace_roso",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1914778017026670592",
+      "handle": "@jo3amato",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1633388526",
+      "handle": "@zaintkhalid",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1876001052",
+      "handle": "@g_shullenberger",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1567870977651970060",
+      "handle": "@moonsandhues",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1306675615387521025",
+      "handle": "@DinahKolka",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1403066259273654280",
+      "handle": "@plfrnz",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1765808277944737792",
+      "handle": "@LouBahet",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "18989355",
+      "handle": "@micsolana",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1216464302464475141",
+      "handle": "@samfromvenis",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1764040566432481280",
+      "handle": "@AltCulture",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1012032227096473601",
+      "handle": "@BrockColyar",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1589263790830505990",
+      "handle": "@Tyler_A_Harper",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "902600533260816384",
+      "handle": "@justindeanlee",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "148589643",
+      "handle": "@samanthawillman",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "93361828",
+      "handle": "@xlorentzen",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "324714133",
+      "handle": "@MarcHochstein",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1682440130735251478",
+      "handle": "@elischoop",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "33805522",
+      "handle": "@sunraysunray",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1264299313867436032",
+      "handle": "@moonandmouth",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1063804260368805890",
+      "handle": "@hastuc_dibtux",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1242293858362249216",
+      "handle": "@FOMO_sacer",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1276301915970830336",
+      "handle": "@bronzeageshawty",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1224111165950889984",
+      "handle": "@gwenergyreigns",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "513248603",
+      "handle": "@AndreiSoldatov",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1470850063",
+      "handle": "@irgarner",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1367611692230856705",
+      "handle": "@baltic_dan",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1475563262024601602",
+      "handle": "@marsreviewer",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1245918711111749633",
+      "handle": "@MartinSkold2",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1332630685",
+      "handle": "@briebriejoy",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "274396558",
+      "handle": "@AlexVadukul",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1360257495638376449",
+      "handle": "@BCC_Mitchell",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1183539659856662528",
+      "handle": "@CourageAriel",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1602965346826199040",
+      "handle": "@7sjya",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "178353631",
+      "handle": "@DanFriedman81",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1590439399002701832",
+      "handle": "@thrialectics",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1917734410562232320",
+      "handle": "@specfictions",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "148203801",
+      "handle": "@karinaztn",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1669495911670587393",
+      "handle": "@kauandubh",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1987225238208454660",
+      "handle": "@realboywaif",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "126523262",
+      "handle": "@jruss_jruss",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1110548690513596417",
+      "handle": "@The_Fence_Mag",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2557446343",
+      "handle": "@futurism",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "766326031259230212",
+      "handle": "@mcmansionhell",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "765637712636416000",
+      "handle": "@thisistotespunk",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "14287094",
+      "handle": "@Harpers",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1352300250841677824",
+      "handle": "@TuttReal",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "21652614",
+      "handle": "@ystrickler",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1135622396",
+      "handle": "@bigblackjacobin",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1943865843856904192",
+      "handle": "@stained__hanes",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "102569875",
+      "handle": "@Caol_MacCormaic",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "877295296828522496",
+      "handle": "@Substack",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1950649488688713729",
+      "handle": "@CletusCrow",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1904983352236752896",
+      "handle": "@recapitul8r",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2413020367",
+      "handle": "@jbrucj",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "978397988044156928",
+      "handle": "@audreygkemp",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1568420197",
+      "handle": "@jibchiara",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1180656511141515264",
+      "handle": "@TheSoberThug",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1272524307235774473",
+      "handle": "@PigPublishing",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "491000858",
+      "handle": "@tobyshorin",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2402225466",
+      "handle": "@rSanti97",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3302895116",
+      "handle": "@filipthoughts",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1840615970240425984",
+      "handle": "@GGBussyAllin",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1494362228107132935",
+      "handle": "@AndrewHastie",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1551717240243978241",
+      "handle": "@reformedlitbro",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3784398377",
+      "handle": "@emily_sipiora",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "15309288",
+      "handle": "@PublishersLunch",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1835475622816022528",
+      "handle": "@ayersramme",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "532787029",
+      "handle": "@mattforney",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "45712068",
+      "handle": "@tatints",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1320381596587929600",
+      "handle": "@ara_hagopian",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "15863265",
+      "handle": "@alibreland",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3009160222",
+      "handle": "@rachdele",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1820996738582519808",
+      "handle": "@chthonic_youth",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "7436592",
+      "handle": "@strandbookstore",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3254775850",
+      "handle": "@spike_art",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3301122227",
+      "handle": "@peterldowns",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "891178067967840256",
+      "handle": "@JoshuaCitarella",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "264196810",
+      "handle": "@ForsterSam",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1448799025034141701",
+      "handle": "@readmaxread",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "21047743",
+      "handle": "@muumuuhouse",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "60374592",
+      "handle": "@deankissick",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "16929600",
+      "handle": "@NYTmag",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1001691750078078976",
+      "handle": "@toomuchistrue",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "52796949",
+      "handle": "@nplusonemag",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "71256932",
+      "handle": "@parisreview",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1155907653002022912",
+      "handle": "@thedrift_mag",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1521312855827525632",
+      "handle": "@juliasteinberg",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "37836873",
+      "handle": "@LILBTHEBASEDGOD",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1739704512946843648",
+      "handle": "@ProjectionArte",
+      "error": "HTTP Error 402: Payment Required"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "122268815",
+      "handle": "@dhrowghos",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1341814365889179649",
+      "handle": "@zillowgonewild",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2718680155",
+      "handle": "@village_witch",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1692232551266672640",
+      "handle": "@C4GBooks",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "956629445934305280",
+      "handle": "@clereviewbooks",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1577540390684479489",
+      "handle": "@NewRightPoast",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1461793825492398082",
+      "handle": "@KisscamTony",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2886331",
+      "handle": "@ScarletDeath",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "912729106344579074",
+      "handle": "@L0m3z",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "16977308",
+      "handle": "@madverse",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2351053826",
+      "handle": "@neovictorian23",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1743689220407930880",
+      "handle": "@TheEndMagazine",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1295586651725426688",
+      "handle": "@50percentpawg",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1276775396",
+      "handle": "@RobotEatingRobo",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1193627371817050113",
+      "handle": "@sigilante",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1193100071669293061",
+      "handle": "@jmkettle",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1263211367030349826",
+      "handle": "@wayofftheres",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "170254080",
+      "handle": "@jacobin",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "4128420672",
+      "handle": "@curaffairs",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1262702074120351744",
+      "handle": "@mansworldmag_",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "268629423",
+      "handle": "@vers_laLune",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "3180332558",
+      "handle": "@sighswoon",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1536493496",
+      "handle": "@mjluxmoore",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "23187207",
+      "handle": "@VersoBooks",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1006272236028915712",
+      "handle": "@BenBurgis",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1637507099558027267",
+      "handle": "@cremieuxrecueil",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "801181688",
+      "handle": "@theoooeooo",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "21841858",
+      "handle": "@brksstrrtt",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1605659103937892381",
+      "handle": "@themarsreview",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "996923362386546694",
+      "handle": "@ProfPaulPoast",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "727978901922668544",
+      "handle": "@Kswenny1",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "37295817",
+      "handle": "@codyclarke",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1458522923581558785",
+      "handle": "@AnaKrivolapova",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "747710731995451392",
+      "handle": "@mimpathy",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2379655651",
+      "handle": "@syntheticsensei",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "7689342",
+      "handle": "@NikitaSPetrov",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1456758224988876815",
+      "handle": "@credenzaclear2",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1514496748592455680",
+      "handle": "@roundtripgod",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "250058373",
+      "handle": "@c_nuttall",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "109604455",
+      "handle": "@ChrisO_wiki",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1034954029896355840",
+      "handle": "@palladiummag",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "28979807",
+      "handle": "@Duderichy",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1533943821918167040",
+      "handle": "@ceba7o",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "517912989",
+      "handle": "@babybaudrillard",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1688796138",
+      "handle": "@PeterZeihan",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "60087571",
+      "handle": "@alexnazaryan",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "29961157",
+      "handle": "@russianlife",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1495726466",
+      "handle": "@KonstantinKisin",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "868962444269506561",
+      "handle": "@francisjfarrell",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2297587866",
+      "handle": "@Nigelgd1",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1251325050495463424",
+      "handle": "@luckyylindy",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "281877818",
+      "handle": "@Noahpinion",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "21114659",
+      "handle": "@ForeignAffairs",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "26792275",
+      "handle": "@ForeignPolicy",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1217882421288493056",
+      "handle": "@WorksInProgMag",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "2313633876",
+      "handle": "@DrRadchenko",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1327266713054941184",
+      "handle": "@RWApodcast",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1306199515",
+      "handle": "@JohnHMcWhorter",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "217942278",
+      "handle": "@danwilliamsphil",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "373820283",
+      "handle": "@Andrey4Mir",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "66533920",
+      "handle": "@ZaidJilani",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1524407286910930944",
+      "handle": "@culturaltutor",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "1041044330092195840",
+      "handle": "@RichardHanania",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "15446531",
+      "handle": "@mattyglesias",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "type": "following_fetch_failed",
+      "writer_id": "38271276",
+      "handle": "@mtaibbi",
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "writer_following_counts": {
+    "994766644986593280": 2456,
+    "114498847": 871,
+    "954454855610916864": 1895,
+    "887547654": 715,
+    "228663718": 646,
+    "71287667": 2641
+  },
+  "schema": {
+    "nodes": [
+      "id",
+      "handle",
+      "name",
+      "bio",
+      "is_writer",
+      "writer_score",
+      "first_seen_at",
+      "last_seen_at"
+    ],
+    "edges": [
+      "src_id",
+      "dst_id",
+      "first_seen_at",
+      "last_seen_at",
+      "source_batch"
+    ],
+    "node_stats": [
+      "node_id",
+      "followed_by_writer_count",
+      "writer_followers",
+      "last_recomputed_at"
+    ]
+  }
+}
