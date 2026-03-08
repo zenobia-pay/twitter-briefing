@@ -49,15 +49,18 @@ Constraints:
 - Only propose actions + drafts.
 - Prioritize high-signal, high-view, builder-centric threads.
 - Include direct status URLs.
+- Keep output concise for Slack: max 3 threads, max 2 reply options per thread.
+- Keep each summary/why/reply under 180 chars.
+- Avoid filler.
 
 Return strict JSON:
 {{
   "slot": "{slot}",
   "niche": "{niche}",
-  "summary": "1-2 sentences",
-  "threads": [{{"url":"...","author":"...","why":"...","replyOptions":["...","...","..."]}}],
-  "originalPostDraft": "string or empty",
-  "memoryNotes": ["..."]
+  "summary": "1 short sentence",
+  "threads": [{{"url":"...","author":"...","why":"short reason","replyOptions":["...","..."]}}],
+  "originalPostDraft": "string or empty (max 280 chars)",
+  "memoryNotes": ["short note"]
 }}
 '''
 
